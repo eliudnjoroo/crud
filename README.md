@@ -1,1 +1,1 @@
-python crud operations basics
+python basics small console projects
